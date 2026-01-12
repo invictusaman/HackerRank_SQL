@@ -6,9 +6,9 @@ It is guaranteed that no two students got same salary offer.
 Thought process - 1) I  need salary of myself and best friend. (Students Join Packages > My_Salary (with studentID) ; Friends Join Packages > Best_Friend_Salary (with FriendsID))
                   2) I will have 2 tables : ID, Name, My_Salary & ID, Friends_ID, Friends_Salary
                   3) Easy Join and Apply conditions as per question.
-*/
 
-/*
+Complete Question - https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true
+
 Enter your MySQL query here.
 */
 
